@@ -13,6 +13,9 @@ Your task is to use advanced SQL querying techniques to track how player statist
 3. What does each player's career look like?
 4. How do player attributes compare?
 
+\i sql/insert_data.sql
+
+
 
 
 
