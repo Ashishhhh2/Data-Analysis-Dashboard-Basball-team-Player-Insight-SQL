@@ -13,6 +13,8 @@ Your task is to use advanced SQL querying techniques to track how player statist
 3. What does each player's career look like?
 4. How do player attributes compare?
 
+## MY SQL Dashboard
+<img width="1919" height="1025" alt="My SQL SC" src="https://github.com/user-attachments/assets/8a2a8b6c-c98d-4d54-b96a-b3fb957ed44d" />
 
 
 
