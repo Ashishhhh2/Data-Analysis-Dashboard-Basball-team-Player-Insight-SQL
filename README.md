@@ -13,14 +13,13 @@ Your task is to use advanced SQL querying techniques to track how player statist
 -  MySQL
 
 ## THE OBJECTIVES
-1. What schools do MLB players attend?
-2. 
-3. How much do teams spend on player salaries?
-4. 
-5. What does each player's career look like?
-6. 
-7. How do player attributes compare?
-8. 
+Q. What schools do MLB players attend?
+ 
+Q. How much do teams spend on player salaries?
+
+Q. What does each player's career look like?
+ 
+Q. How do player attributes compare? 
 
 ## MY SQL Dashboard
 <img width="1919" height="1025" alt="My SQL SC" src="https://github.com/user-attachments/assets/8a2a8b6c-c98d-4d54-b96a-b3fb957ed44d" />
